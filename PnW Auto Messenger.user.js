@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PnW Auto Messenger
 // @namespace    https://politicsandwar.com
-// @version      0.1
+// @version      0.1.1
 // @description  Messenging Script for PnW
 // @author       Praximus Cladius
 // @match        https://politicsandwar.com/*
